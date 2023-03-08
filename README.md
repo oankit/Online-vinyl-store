@@ -106,5 +106,5 @@ Our company is one of the only in the market that offers straight to your door f
     </tr>
     <tr>
       <td>Product detail image</td>
-      <td>Product detail page
+      <td>Product detail page</td>
 
