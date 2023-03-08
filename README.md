@@ -104,7 +104,5 @@ Our company is one of the only in the market that offers straight to your door f
       <td>Provides detailed information and image of each product</td>
       <td>DONE</td>
     </tr>
-    <tr>
-      <td>Product detail image</td>
-      <td>Product detail page</td>
+      
 
